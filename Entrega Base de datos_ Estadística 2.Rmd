@@ -1,0 +1,14 @@
+---
+title: "Entrega 2 Estadística 2"
+author: "Briyit Pacco y Nayeli Chuquispuma"
+date: "2025-10-20"
+output: html_document
+---
+
+```{r}
+library(rio)
+data=import("C:/Users/Briyith/Downloads/Base de datos Est.2.xlsx")
+```
+
+
+
